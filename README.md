@@ -1,4 +1,4 @@
-# 42-Get_Next_Line
+# Get_Next_Line
 
 * Bu proje ile, bir işletim sisteminde dosyaların nasıl açıldığını, 
 okunduğunu ve kapatıldığını ve daha fazla analiz için bir programlama dili tarafından nasıl yorumlandığını anlayacaksınız. 
